@@ -56,11 +56,6 @@ Query {
 */
 ```
 
-#### Drawbacks
-
-- `Over fetching` of data is common pitfal in rest when the app scales and data becomes more complex
-- `Under fetching` of data, getting back less data than we needed
-
 ## Usage
 
 - for graphql `apollo server` is used to send request/test queries (its like postman)
